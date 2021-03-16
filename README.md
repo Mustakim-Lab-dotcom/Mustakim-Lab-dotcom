@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mustakim-Lab-dotcom
+- 👋 Hi, I’m @Mustakim Ahmed
 - 👀 I’m interested in HTML | CSS | MEDIA QUERY | JS | PHP | JAVA | WORDPRESS
 - 🌱 I’m currently learning JS..
 - 💞️ I’m looking to collaborate on ........
