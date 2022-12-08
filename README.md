@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mustakim Ahmed
 - 👀 I’m interested in HTML | CSS | MEDIA QUERY | JS | PHP | JAVA | WORDPRESS
 - 🌱 I’m currently learning JS..
-- 💞️ I’m looking to collaborate on ........
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me : LInkedin : https://www.linkedin.com/in/mustakim00/
 
 <!---
