@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mustakim Ahmed
 - 👀 I’ve knowledge in HTML | CSS | MEDIA QUERY | JS | PHP | JAVA | WordPress
 - 🌱 I’m currently learning Marketing
-- 💞️ I’m looking to collaborate.
+- 💞️ I’m looking to collaborate. Reach out here: mustakim@codexpert.io
 - 📫 How to reach me : Linkedin: https://www.linkedin.com/in/mustakim00/
 
 <!---
