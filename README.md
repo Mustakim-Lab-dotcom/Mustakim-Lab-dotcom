@@ -1,201 +1,187 @@
-# Md. Mustakim Ahmed
-
+ 
 <p align="center">
   <a href="https://www.linkedin.com/in/mustakim00/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mustakim@codexpert.io">
-    <img src="https://img.shields.io/badge/Email-mustakim%40codexpert.io-16a34a?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A66C2,50:2563EB,100:16a34a&text=Hey,%20I'm%20Mustakim%20%F0%9F%91%8B&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=Business%20Development%20%7C%20Product%20Growth%20%7C%20Content%20%26%20SEO&descAlignY=62&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A66C2,100:16a34a&text=Hey,%20I'm%20Mustakim%20%F0%9F%91%8B&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=Business%20Development%20%7C%20WordPress%20%7C%20Product%20Growth&descAlignY=60&descSize=17" width="100%" alt="Profile banner">
+</p>
+
+# A Little About Me
+
+I'm Mustakim Ahmed, a Business Development Executive at **Codexpert, Inc.**, working at the intersection of WordPress, product growth, marketing, and partnerships.
+
+My journey with WordPress started in 2019. I began my professional career in technical support, helping users solve WordPress and WooCommerce problems. Over time, my work expanded into business development, strategic partnerships, product marketing, and growth initiatives.
+
+I enjoy understanding how products work, identifying opportunities, connecting with the right people, and finding practical ways to help products grow.
+
+- 📍 Dhaka, Bangladesh
+- 💼 Business Development Executive at [Codexpert, Inc.](https://codexpert.io/)
+- 🌐 Working with WordPress and WooCommerce since 2019
+- ✍️ Interested in product marketing, SEO, content, and growth
+- 🤖 Exploring AI tools, automation, and MCP integrations
+
+# The Work That Shaped My Journey
+
+**Codexpert, Inc. | January 2021 – Present**
+
+My role has evolved as I've taken on new responsibilities and explored different sides of the WordPress ecosystem.
+
+**Business Development Executive | April 2023 – Present**
+
+- Building strategic partnerships and product collaborations.
+- Exploring new distribution channels, marketplaces, and growth opportunities.
+- Working on go-to-market strategies and product launches.
+- Managing affiliate and partner relationships.
+- Researching markets, competitors, and potential customer segments.
+- Supporting product positioning, messaging, and growth initiatives.
+
+**Support Engineer | January 2021 – April 2023**
+
+- Helped WordPress and WooCommerce users troubleshoot technical issues.
+- Worked directly with customers to understand their problems.
+- Supported plugin setup, configuration, and customization.
+- Turned customer feedback into useful product insights.
+
+# Where I Spend My Time
+
+My work covers several areas, and they often overlap.
+
+- **Business Development:** Partnerships, collaborations, affiliate programs, and business opportunities.
+- **Product Growth:** Go-to-market planning, positioning, product launches, and acquisition strategies.
+- **Content & SEO:** Search-focused articles, product copy, website content, and content strategy.
+- **Email Marketing:** Campaign planning, newsletters, email copy, and HTML email production.
+- **WordPress & WooCommerce:** Product knowledge, technical support, plugin ecosystems, and user experience.
+- **AI & Automation:** Exploring AI-powered workflows, local models, MCP, and practical automation.
+
+# Products I'm Part of
+
+I work with products across the Codexpert ecosystem. Each one addresses a different need for WordPress users, store owners, and businesses.
+
+<details>
+  <summary><strong>EasyCommerce</strong> — eCommerce for WordPress</summary>
+
+  [Website](https://easycommerce.dev)
+
+  EasyCommerce is a WordPress eCommerce solution for businesses that want to sell products directly from their websites. It supports physical and digital products, subscriptions, payments, shipping, taxes, coupons, and store management.
+
+  My work involves product growth, positioning, content, partnerships, and go-to-market activities.
+</details>
+
+<details>
+  <summary><strong>NiroHelp</strong> — AI-native helpdesk for WordPress</summary>
+
+  [Website](https://nirohelp.com)
+
+  NiroHelp brings customer support tickets, knowledge base documentation, email piping, and AI-powered assistance into one WordPress helpdesk. Its AI features help teams handle repetitive questions and make support workflows more efficient.
+</details>
+
+<details>
+  <summary><strong>ThumbPress</strong> — WordPress image optimization and media management</summary>
+
+  [Website](https://thumbpress.co)
+
+  ThumbPress helps WordPress site owners optimize images and organize their media libraries. It combines image compression, format conversion, lazy loading, duplicate detection, media cleanup, and other tools to make media management easier.
+</details>
+
+<details>
+  <summary><strong>CoDesigner</strong> — WooCommerce design toolkit</summary>
+
+  [Website](https://codesigner.dev)
+
+  CoDesigner extends WooCommerce design capabilities with Elementor widgets and modules. It helps store owners and designers customize product pages, shop layouts, and other parts of their storefront without building everything from scratch.
+</details>
+
+<details>
+  <summary><strong>WC Affiliate</strong> — Affiliate marketing for WooCommerce</summary>
+
+  [Website](https://wcaffiliate.com)
+
+  WC Affiliate helps WooCommerce store owners create and manage affiliate programs. It includes tools for affiliate registration, referral tracking, commission management, affiliate dashboards, and partner management.
+</details>
+
+<details>
+  <summary><strong>PluginTracker</strong> — WordPress plugin intelligence and growth insights</summary>
+
+  [Website](https://plugintracker.dev)
+
+  PluginTracker helps WordPress plugin developers and businesses understand their products' performance and the wider plugin ecosystem. It brings together plugin growth tracking, competitor monitoring, review insights, and tools for analyzing user feedback.
+</details>
+
+# Words, Ideas & Things I've Published
+
+Writing is a big part of how I explore products, understand customer problems, and share what I've learned.
+
+I write about WordPress, WooCommerce, product growth, SEO, customer support, and digital marketing.
+
+**Find my articles across these platforms:**
+
+- [NiroHelp Articles](https://nirohelp.com/blog/author/mustakimdip76gmail-com/)
+- [ThumbPress Articles](https://thumbpress.co/blog/author/mustakim-ahmed/)
+- [Codexpert Articles](https://codexpert.io/blog/author/mustakim/)
+- [WC Affiliate Articles](https://wcaffiliate.com/blog/author/mustakim/)
+
+I also share personal thoughts and ideas on [Substack](https://mustakimbee.substack.com/).
+
+# Things I Build on My Own
+
+I enjoy experimenting with ideas, building tools, and exploring problems that could turn into useful products.
+
+**[Content Console](https://wordpress.org/plugins/content-console/)**
+
+Content Console is my WordPress plugin for connecting Google Search Console insights with an AI-assisted SEO content workflow.
+
+It helps website owners discover content opportunities from search performance data, create SEO content briefs, generate WordPress drafts, and refresh existing articles. It uses the WordPress AI Client for content generation and keeps the publishing decision in the user's hands.
+
+# My Everyday Toolkit
+
+**Business & product**
+
+`Business Development` `Product Growth` `Partnerships` `GTM Strategy` `Affiliate Marketing` `Market Research`
+
+**Marketing & content**
+
+`SEO` `Content Marketing` `Email Marketing` `Copywriting` `Product Messaging` `HTML Emails`
+
+**Technology & exploration**
+
+`WordPress` `WooCommerce` `HTML` `CSS` `AI Tools` `MCP` `Automation` `Local LLMs`
+
+# A Glimpse at My GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustakim-Lab-dotcom&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustakim-Lab-dotcom&theme=transparent&hide_border=true" height="165" alt="GitHub streak">
 </p>
 
 <p align="center">
-  📍 Dhaka, Bangladesh &nbsp; | &nbsp; 💼 Codexpert, Inc. &nbsp; | &nbsp; 🌐 WordPress & SaaS
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustakim-Lab-dotcom&layout=compact&theme=transparent&hide_border=true" alt="Most used languages">
 </p>
 
----
+# Let's Cross Paths
 
-## 01. About Me
+I'm always interested in connecting with people working on WordPress, SaaS, product growth, marketing, and useful ideas.
 
-I'm **Md. Mustakim Ahmed**, a Business Development Executive at **Codexpert, Inc.**, working across business development, product marketing, partnerships, content, and growth.
-
-My professional journey started in WordPress customer support. I spent my early years helping users solve technical problems, understanding their needs, and working closely with products like CoDesigner, ThumbPress, and WC Affiliate.
-
-That experience gave me a customer-first perspective that I still bring into business development today.
-
-Over the years, I've expanded my work into:
-
-- Business development and strategic partnerships
-- Product positioning and go-to-market strategies
-- Affiliate marketing and distribution partnerships
-- Content marketing and SEO
-- Market research and competitive analysis
-- Product growth and customer acquisition
-
-I also have **2 years of hands-on experience in content and SEO**, including writing and managing product-focused blog content.
-
-## 02. Professional Experience
-
-| Period | Position | Company |
-|---|---|---|
-| Apr 2023 – Present | Business Development Executive | Codexpert, Inc. |
-| Jan 2021 – Apr 2023 | Support Engineer | Codexpert, Inc. |
-
-### Business Development Executive
-**Codexpert, Inc. | April 2023 – Present**
-
-- Develop strategic partnerships and product collaborations.
-- Explore marketplace, affiliate, and deal-platform opportunities.
-- Work on product launches and go-to-market initiatives.
-- Research new markets, competitors, and distribution channels.
-- Contribute to product positioning and business growth strategies.
-
-### Support Engineer
-**Codexpert, Inc. | January 2021 – April 2023**
-
-- Provided technical support for WordPress and WooCommerce products.
-- Helped users troubleshoot product-related issues.
-- Worked with customers to understand their problems and improve their experience.
-- Shared user feedback and recurring issues with the product team.
-
-## 03. Areas of Expertise
-
-| Area | Focus |
-|---|---|
-| Business Development | Partnerships, collaborations, business opportunities |
-| Product Growth | Acquisition, affiliate marketing, distribution |
-| Go-to-Market | Positioning, launch planning, market entry |
-| Content & SEO | SEO strategy, blog writing, content optimization |
-| Product Marketing | Messaging, product copy, feature communication |
-| Market Research | Competitor research, customer insights, market opportunities |
-| Email Marketing | Campaigns, newsletters, lifecycle communication |
-
-## 04. Products & Ecosystem
-
-I work with products across the WordPress, WooCommerce, and SaaS ecosystem at Codexpert.
-
-| Product | Description |
-|---|---|
-| [EasyCommerce](https://easycommerce.dev) | eCommerce solution for building and managing online stores with WordPress. |
-| [NiroHelp](https://nirohelp.com) | AI-native WordPress helpdesk for customer support, tickets, and documentation. |
-| [ThumbPress](https://thumbpress.co) | Image optimization and media management for WordPress. |
-| [CoDesigner](https://codesigner.dev) | WooCommerce design toolkit and Elementor addon. |
-| [WC Affiliate](https://wcaffiliate.com) | Affiliate marketing plugin for WooCommerce. |
-| [NiroCoder](https://nirocoder.com) | AI-powered WordPress plugin development tool. |
-
-My involvement goes beyond product promotion. I work on understanding the audience, communicating product value, identifying growth opportunities, and building relationships that help products reach more users.
-
-## 05. Writing & Editorial Work
-
-**Writer | SEO Content Strategist | Product Content**
-
-Writing is an important part of my professional experience. I've worked on product-focused content, SEO articles, educational blog posts, and marketing communication for WordPress products.
-
-I focus on making technical topics easier to understand while keeping content useful, search-focused, and relevant to the reader.
-
-### Author at EasyCommerce Blog
-
-I contribute as a blog author at [EasyCommerce](https://easycommerce.dev/blog/), writing about eCommerce, WordPress, AI-powered commerce, and product-related topics.
-
-**Selected articles:**
-
-1. [What Is Agentic Commerce?](https://easycommerce.dev/blog/what-is-agentic-commerce/)
-2. [How to Prepare Your WordPress Store for Agentic Commerce](https://easycommerce.dev/blog/wordpress-store-for-agentic-commerce/)
-
-### Other Writing & Content Work
-
-- SEO blog writing and optimization
-- WordPress and WooCommerce educational content
-- Product-led content marketing
-- Product documentation and feature communication
-- Email campaigns and newsletters
-- Website and landing page copywriting
-
-### Personal Writing
-
-I also share thoughts, observations, and ideas about business, technology, marketing, and personal growth.
-
-**[Read my writing on Substack](https://mustakimbee.substack.com/)**
-
-## 06. Personal Projects & Experiments
-
-I enjoy exploring ideas and building tools, particularly around WordPress, content workflows, analytics, and AI.
-
-| Project | What I'm exploring |
-|---|---|
-| [PluginTracker](https://plugintracker.dev) | WordPress plugin analytics, competitor tracking, review insights, and growth intelligence. |
-| Content Console | A WordPress content workflow connecting Google Search Console with AI-assisted content creation. |
-| AI & Automation | Local AI models, MCP integrations, and practical AI-powered workflows. |
-
-These projects reflect my interest in understanding how technology can solve practical problems for businesses and product teams.
-
-## 07. Technologies & Tools
-
-**Platforms & Ecosystems**
-
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=flat-square&logo=google-search-console&logoColor=white" />
-</p>
-
-**Marketing & Business**
-
-<p>
-  <img src="https://img.shields.io/badge/Business%20Development-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/SEO-16a34a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Content%20Marketing-F97316?style=flat-square" />
-  <img src="https://img.shields.io/badge/Email%20Marketing-DB2777?style=flat-square" />
-  <img src="https://img.shields.io/badge/Market%20Research-0891B2?style=flat-square" />
-</p>
-
-**Technical Interests**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Tools-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-2563EB?style=flat-square" />
-</p>
-
-## 08. GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustakim-Lab-dotcom&show_icons=true&hide_border=true&theme=transparent" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustakim-Lab-dotcom&layout=compact&hide_border=true&theme=transparent" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mustakim-Lab-dotcom&hide_border=true&theme=transparent" width="70%" />
-</p>
-
----
-
-## 09. Let's Connect
-
-I'm always interested in conversations around WordPress, SaaS, product growth, business development, partnerships, content marketing, and AI.
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/mustakim00/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mustakim%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mustakim@codexpert.io">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-16a34a?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://mustakimbee.substack.com/">
+    <img src="https://img.shields.io/badge/Substack-Read%20My%20Writing-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
   </a>
 </p>
 
 <p align="center">
-  <i>Understanding products. Connecting people. Creating opportunities. Growing ideas.</i>
+  <i>Learning, building, connecting, and figuring things out along the way.</i>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0A66C2,100:16a34a&section=footer" width="100%" />
-</p>
-
 <!---
 Mustakim-Lab-dotcom/Mustakim-Lab-dotcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
